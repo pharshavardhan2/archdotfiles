@@ -25,3 +25,4 @@ hyprpaper
 hypridle
 hyprlock
 eza
+dunst
