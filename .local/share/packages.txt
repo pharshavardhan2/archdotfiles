@@ -20,3 +20,4 @@ cloudflare-warp-bin
 JetBrainsMono Nerd Font (from https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/JetBrainsMono/Ligatures/Regular or package manager)
 waybar
 matugen-bin
+tofi
