@@ -9,4 +9,8 @@ helix
 fish
 brightnessctl
 qtile
-
+wl-clipboard
+pyright
+ruff
+vscode-langservers-extracted
+emmet-language-server
