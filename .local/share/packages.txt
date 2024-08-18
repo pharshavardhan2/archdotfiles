@@ -27,3 +27,5 @@ hyprlock
 eza
 dunst
 grimblast
+geeqie
+nautilus
