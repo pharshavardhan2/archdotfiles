@@ -1,0 +1,12 @@
+endeavouros (no desktop)
+add chaotic-aur and cachyos repos
+Hyprland-git
+xdg-desktop-portal-hyprland
+xdg-desktop-portal-gtk
+firefox-developer-edition
+wezterm-git
+helix
+fish
+brightnessctl
+qtile
+
