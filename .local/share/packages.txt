@@ -21,3 +21,6 @@ JetBrainsMono Nerd Font (from https://github.com/ryanoasis/nerd-fonts/tree/maste
 waybar
 matugen-bin
 tofi
+hyprpaper
+hypridle
+hyprlock

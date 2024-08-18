@@ -1,0 +1,7 @@
+[user]
+email = pharshavardhan2@outlook.com
+name = harsha
+[core]
+editor = helix
+[init]
+defaultBranch = main

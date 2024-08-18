@@ -75,7 +75,7 @@
     }
   },
   "custom/cloudflare": {
-    "exec": "~/.config/waybar/cloudflare.sh",
+    "exec": "~/.local/share/bin/cloudflare.sh",
     "on-click": ":",
     "signal": 1,
     "format": "󰖂 ",
