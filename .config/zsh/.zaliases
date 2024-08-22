@@ -1,0 +1,18 @@
+alias hx="helix"
+
+# manage dotfiles
+alias cfg="/usr/bin/git --git-dir=$HOME/.archdotfiles/ --work-tree=$HOME"
+
+# package related
+alias un="yay -Rns"         # uninstall package, delete config files, remove unnecessary dependencies
+alias up="yay -Syu"         # update system
+alias pl="yay -Qs"          # list installed package(package list)
+alias pc="yay -Sc"          # remove unused cache(package clean)
+alias po="yay -Qtdq | un -" # remove unused packages(package obsolete)
+
+# eza
+alias  l="eza -lh  --icons=auto"                                       # long list
+alias ls="eza -1   --icons=auto"                                       # short list
+alias ll="eza -lha --icons=auto --sort=name --group-directories-first" # long list all
+alias ld="eza -lhD --icons=auto"                                       # long list dirs
+alias lt="eza --icons=auto --tree"                                     # list folder as tree
