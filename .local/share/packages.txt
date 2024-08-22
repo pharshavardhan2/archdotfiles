@@ -29,3 +29,8 @@ dunst
 grimblast
 geeqie
 nautilus
+nwg-look
+zsh
+starship
+okular
+vlc
