@@ -34,3 +34,8 @@ zsh
 starship
 okular
 vlc
+kvantum
+dissent-bin
+gvfs-mtp  (for android)
+lupe
+hyprpicker

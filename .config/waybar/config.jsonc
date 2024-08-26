@@ -32,9 +32,10 @@
       "wezterm": " ",
       "codium": "󰨞 ",
       "okular": " ",
-      "foliate": "󱉟",
-      "org.gnome.Nautilus": "",
-      "vlc": "󰕼"
+      "foliate": "󱉟 ",
+      "org.gnome.Nautilus": " ",
+      "vlc": "󰕼 ",
+      "dissent": " "
     },
     "persistent-workspaces": {
       "*": 5
