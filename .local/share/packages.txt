@@ -39,3 +39,8 @@ dissent-bin
 gvfs-mtp  (for android)
 lupe
 hyprpicker
+torbrowser-launcher
+speech-dispatcher
+gnome-boxes
+linux-cachyos
+
