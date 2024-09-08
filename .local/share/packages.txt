@@ -43,4 +43,5 @@ torbrowser-launcher
 speech-dispatcher
 gnome-boxes
 linux-cachyos
-
+calibre
+strawberry
