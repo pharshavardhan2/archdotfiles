@@ -45,3 +45,4 @@ linux-cachyos
 calibre
 strawberry
 zen-browser-avx2-bin
+hyprpolkitagent   # gui for applications to request privileges
