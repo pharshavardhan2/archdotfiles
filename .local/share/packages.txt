@@ -1,9 +1,8 @@
 endeavouros (no desktop)
 add chaotic-aur and cachyos repos
-Hyprland-git
+Hyprland
 xdg-desktop-portal-hyprland
 xdg-desktop-portal-gtk
-firefox-developer-edition
 wezterm-git
 helix
 fish
@@ -45,3 +44,4 @@ gnome-boxes
 linux-cachyos
 calibre
 strawberry
+zen-browser-avx2-bin
